@@ -1,0 +1,6 @@
+[submodule "ImprovedEssentials"]
+	path = ImprovedEssentials
+	url = git@github.com:v1ctorio/Improved-Essentials.git
+[submodule "BetterGraveChest"]
+	path = BetterGraveChest
+	url = git@github.com:v1ctorio/BetterGraveChest.git
