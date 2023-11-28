@@ -10,4 +10,4 @@ TODO
 
 ## Essentials
 ### Extra features
-- Emmerald (Configurable item TODO) cost to /home
+- Item cost to /home
